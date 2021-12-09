@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import "./reset.css";
+import "./App.css";
+
+import EmailInput from "./components/EmailInput";
+import logo from "./images/logo.svg";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <main className="main">
+      <img className="logo" src={logo} alt="Base Apparel" />
+      <div className="background-img"></div>
+      <section>
+        <h1 className="title">
+          We're <strong>coming soon</strong>
+        </h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello fellow shoppers! We're currently building our new fashion store.
+          Add your email below to stay up-to-date with announcements and our
+          launch deals.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <EmailInput />
+      </section>
+    </main>
   );
 }
 

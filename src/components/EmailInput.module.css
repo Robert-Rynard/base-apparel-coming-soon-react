@@ -1,0 +1,21 @@
+.input {
+  display: flex;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+input {
+  border: 1px solid var(--desaturated-red);
+  border-radius: 32px;
+  padding: 0.5rem 3rem 0.5rem 1.25rem;
+  color: var(--desaturated-red);
+}
+
+button {
+  position: absolute;
+  right: -1rem;
+  padding: 0.7rem 1.5rem;
+  border-radius: 32px;
+  border: 0;
+  background-color: var(--desaturated-red);
+}
