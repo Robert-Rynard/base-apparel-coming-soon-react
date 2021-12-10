@@ -6,10 +6,12 @@ import logo from "./images/logo.svg";
 
 function App() {
   return (
-    <main className="main">
-      <img className="logo" src={logo} alt="Base Apparel" />
+    <div className="container">
+      <header>
+        <img className="logo" src={logo} alt="Base Apparel" />
+      </header>
       <div className="background-img"></div>
-      <section>
+      <main className="main">
         <h1 className="title">
           We're <strong>coming soon</strong>
         </h1>
@@ -19,8 +21,8 @@ function App() {
           launch deals.
         </p>
         <EmailInput />
-      </section>
-    </main>
+      </main>
+    </div>
   );
 }
 
