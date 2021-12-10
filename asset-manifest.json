@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Robert-Rynard/base-apparel-coming-soon-react/static/css/main.cbaeae40.chunk.css",
-    "main.js": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/main.93b415bf.chunk.js",
-    "main.js.map": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/main.93b415bf.chunk.js.map",
-    "runtime-main.js": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/runtime-main.f979bfd2.js",
-    "runtime-main.js.map": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/runtime-main.f979bfd2.js.map",
-    "static/js/2.689d40e5.chunk.js": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/2.689d40e5.chunk.js",
-    "static/js/2.689d40e5.chunk.js.map": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/2.689d40e5.chunk.js.map",
-    "static/js/3.9b769931.chunk.js": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/3.9b769931.chunk.js",
-    "static/js/3.9b769931.chunk.js.map": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/3.9b769931.chunk.js.map",
-    "index.html": "/Robert-Rynard/base-apparel-coming-soon-react/index.html",
-    "static/css/main.cbaeae40.chunk.css.map": "/Robert-Rynard/base-apparel-coming-soon-react/static/css/main.cbaeae40.chunk.css.map",
-    "static/js/2.689d40e5.chunk.js.LICENSE.txt": "/Robert-Rynard/base-apparel-coming-soon-react/static/js/2.689d40e5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Robert-Rynard/base-apparel-coming-soon-react/static/media/hero-mobile.1afd055b.jpg",
-    "static/media/icon-arrow.4b3d2d93.svg": "/Robert-Rynard/base-apparel-coming-soon-react/static/media/icon-arrow.4b3d2d93.svg",
-    "static/media/EmailInput.module.css": "/Robert-Rynard/base-apparel-coming-soon-react/static/media/icon-error.77009af7.svg",
-    "static/media/logo.bfe35add.svg": "/Robert-Rynard/base-apparel-coming-soon-react/static/media/logo.bfe35add.svg"
+    "main.css": "/base-apparel-coming-soon-react/static/css/main.e446688b.chunk.css",
+    "main.js": "/base-apparel-coming-soon-react/static/js/main.93b415bf.chunk.js",
+    "main.js.map": "/base-apparel-coming-soon-react/static/js/main.93b415bf.chunk.js.map",
+    "runtime-main.js": "/base-apparel-coming-soon-react/static/js/runtime-main.00bd7000.js",
+    "runtime-main.js.map": "/base-apparel-coming-soon-react/static/js/runtime-main.00bd7000.js.map",
+    "static/js/2.689d40e5.chunk.js": "/base-apparel-coming-soon-react/static/js/2.689d40e5.chunk.js",
+    "static/js/2.689d40e5.chunk.js.map": "/base-apparel-coming-soon-react/static/js/2.689d40e5.chunk.js.map",
+    "static/js/3.9b769931.chunk.js": "/base-apparel-coming-soon-react/static/js/3.9b769931.chunk.js",
+    "static/js/3.9b769931.chunk.js.map": "/base-apparel-coming-soon-react/static/js/3.9b769931.chunk.js.map",
+    "index.html": "/base-apparel-coming-soon-react/index.html",
+    "static/css/main.e446688b.chunk.css.map": "/base-apparel-coming-soon-react/static/css/main.e446688b.chunk.css.map",
+    "static/js/2.689d40e5.chunk.js.LICENSE.txt": "/base-apparel-coming-soon-react/static/js/2.689d40e5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/base-apparel-coming-soon-react/static/media/hero-mobile.1afd055b.jpg",
+    "static/media/icon-arrow.4b3d2d93.svg": "/base-apparel-coming-soon-react/static/media/icon-arrow.4b3d2d93.svg",
+    "static/media/EmailInput.module.css": "/base-apparel-coming-soon-react/static/media/icon-error.77009af7.svg",
+    "static/media/logo.bfe35add.svg": "/base-apparel-coming-soon-react/static/media/logo.bfe35add.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f979bfd2.js",
+    "static/js/runtime-main.00bd7000.js",
     "static/js/2.689d40e5.chunk.js",
-    "static/css/main.cbaeae40.chunk.css",
+    "static/css/main.e446688b.chunk.css",
     "static/js/main.93b415bf.chunk.js"
   ]
 }
